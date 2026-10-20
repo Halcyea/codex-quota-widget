@@ -1,0 +1,24 @@
+{
+  "source": "https://hyperos.mi.com/font/zh/download/",
+  "download": "https://hyperos.mi.com/font-download/MiSans.zip",
+  "download_date": "2026-10-18",
+  "files": [
+    {
+      "file": "MiSans-Regular.ttf",
+      "family": [
+        "MiSans",
+        "Regular"
+      ],
+      "sha256": "9c120f0a849bc0aa5048daae2a3c0f6eecd828b5b33fce682a9622833f5feea6"
+    },
+    {
+      "file": "MiSans-Semibold.ttf",
+      "family": [
+        "MiSans",
+        "Semibold"
+      ],
+      "sha256": "77c23f31ae124867778344970155a0c8d34a89897dedaab81aeee82ff00a4ce6"
+    }
+  ],
+  "note": "Official original font files, unchanged. Used privately by this application."
+}

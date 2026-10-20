@@ -1,0 +1,17 @@
+.runtime/
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+!.env.example
+.planning/
+task_plan.md
+progress.md
+findings.md
+native-integration-findings.md
+tools/inspect_client.py
+启动小衡.vbs
+停止小衡.vbs
+*.lnk
+*.log
